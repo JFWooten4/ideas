@@ -29,3 +29,11 @@ Basically need to impliment a markdown feature where you can reference the numbe
 For any sizable docs, this is paramount to being able to edit after a "final" export, or otherwise interoperate between files
 
 My rudamentary idea for the format is something like {{^footnote}} returns the number of FN if ∃^footnote.
+
+# author DUNA
+
+not sure where this commit went
+
+# insurance DUNA
+
+Especially with option for easy 100% deductables for personal accountability that complies with entranced legacy overreaches. 
